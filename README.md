@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <b>@ni-codemus<\b>
+# 👋 Hi, I’m <b>@ni-codemus</b>
 
 - 👀 I’m interested in software development, cybersecurity, reverse engineering, and the intersection of tech and healthcare. I also love exploring neuroscience, psychology, and music.  
 - 🌱 I’m currently learning **reverse engineering**, **OS development**, and preparing for the **CompTIA Security+ certification**.  
