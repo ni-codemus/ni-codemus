@@ -1,13 +1,16 @@
 # 👋 Hi, I’m <b>@ni-codemus</b>
 
-- 👀 I’m interested in software development, cybersecurity, reverse engineering, data-science and the intersection of tech and healthcare. I also love exploring neuroscience, psychology, and music.  
-- 🌱 I’m currently learning **reverse engineering**, **OS development**, and preparing for the **CompTIA Security+ certification**.  
-- 💞️ I’m looking to collaborate on projects related to **security, system programming, or health tech solutions**.  
-- 📫 How to reach me: You can find me on [**LinkedIn**](https://cm.linkedin.com/in/nick-l-piebeing-4a78971b4) or contact me via email at **piebeinn@3il.fr**.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I wake up at 5:30 AM to hit the gym before coding—discipline is key! 🚀  
+I’m interested in software engineering, cybersecurity, and low-level systems.
 
-🔹 Let’s connect and build something great together!  
+I currently focus on reverse engineering, operating systems fundamentals, and security concepts, while preparing for the CompTIA Security+ certification.  
+Alongside this, I train and practice in software development and DevOps, working with tools such as Ansible, Terraform, Docker, and Kubernetes.
+
+I enjoy working close to the system: understanding how things work internally, breaking them, and improving their security. I’m particularly interested in the intersection between technology, healthcare, and critical systems.
+
+I’m open to collaborating on projects related to security, system programming, DevOps, or infrastructure automation.
+
+📫 Reach me on LinkedIn or by email: piebeinn@3il.fr
+  
 
 <!---
 ni-codemus/ni-codemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
