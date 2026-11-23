@@ -10,12 +10,12 @@ Currently studying Cybersecurity at **École 2600** (following a Computer Engine
 - **Low-Level & Security:** Exploring OS internals, reverse engineering, and defensive engineering to build resilient software from the ground up.
 
 ### 💡 Background
-Through previous software engineering and reverse-engineering internships in critical healthcare systems, I’ve gained hands-on experience analyzing complex legacy pipelines, building CI/CD workflows, and writing thorough technical documentation[cite: 1].
+Through previous software engineering and reverse-engineering internships in critical healthcare data systems, I’ve gained hands-on experience analyzing complex legacy pipelines, building CI/CD workflows, and writing thorough technical documentation.
 
 ### 🤝 Open to
-Internships and collaborations around **DevOps, CI/CD, AI infrastructure (MCP), system programming, and security**[cite: 1].
+Internships and collaborations around **DevOps, CI/CD, AI infrastructure (MCP), system programming, and security**.
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com) or by email: **nick.diffo.appliance@gmail.com**[cite: 1]
+📫 Reach me on [LinkedIn](https://www.linkedin.com) or by email: **nick.diffo.appliance@gmail.com**
   
 
 <!---
