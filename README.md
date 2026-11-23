@@ -1,15 +1,21 @@
 # 👋 Hi, I’m <b>@ni-codemus</b>
 
-I’m interested in software engineering, cybersecurity, and low-level systems.
+Cybersecurity & Software Engineering student, focused on **DevOps, CI/CD automation, low-level systems, and AI tooling**.
 
-I currently focus on reverse engineering, operating systems fundamentals, and security concepts, while preparing for the CompTIA Security+ certification.  
-Alongside this, I train and practice in software development and DevOps, working with tools such as Ansible, Terraform, Docker, and Kubernetes.
+Currently studying Cybersecurity at **École 2600** (following a Computer Engineering background at **3iL Ingénieurs**), I enjoy building reliable, secure, and well-documented systems close to the hardware.
 
-I enjoy working close to the system: understanding how things work internally, breaking them, and improving their security. I’m particularly interested in the intersection between technology, healthcare, and critical systems.
+### 🔧 What I’m working on
+- **AI & MCP Infrastructure:** Building a self-hosted **Model Context Protocol (MCP)** server with token authentication, path-traversal protection, automated non-regression tests, JSON call logging, and full GitHub Actions CI/CD deployment.
+- **DevOps & Software Engineering:** Designing automated pipelines, containerized workflows, and data processing architectures (Python, C, Rust, Docker, GitLab CI/CD, GitHub Actions, Terraform, PostgreSQL).
+- **Low-Level & Security:** Exploring OS internals, reverse engineering, and defensive engineering to build resilient software from the ground up.
 
-I’m open to collaborating on projects related to security, system programming, DevOps, or infrastructure automation.
+### 💡 Background
+Through previous software engineering and reverse-engineering internships in critical healthcare systems, I’ve gained hands-on experience analyzing complex legacy pipelines, building CI/CD workflows, and writing thorough technical documentation[cite: 1].
 
-📫 Reach me on LinkedIn or by email: piebeinn@3il.fr
+### 🤝 Open to
+Internships and collaborations around **DevOps, CI/CD, AI infrastructure (MCP), system programming, and security**[cite: 1].
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com) or by email: **nick.diffo.appliance@gmail.com**[cite: 1]
   
 
 <!---
